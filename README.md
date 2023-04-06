@@ -11,7 +11,7 @@
   </p>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Welcome+to+Palsev's+!;I'+am+a+fullstack+blockchain+developer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend,+FullStack+++">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=1000&lines=Welcome+to+procoder1128+!;I'+am+a+fullstack+web+&+mobile+developer;I+worked+on+Mobile,+Frontend,+Backend,+FullStack+++">
 </p>
 <p>Senior-level Fullstack Web & Moblie & Blockchain developer with 9+ years of experience in software engineering and Web development.</p>
 <p>Experienced with architecting, developing and implementing interactive websites while applying SEO knowledge to engage users and drive organic traffic.</p>
