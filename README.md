@@ -17,12 +17,11 @@
 <p>Experienced with architecting, developing and implementing interactive websites while applying SEO knowledge to engage users and drive organic traffic.</p>
 <p>Advanced knowledge of multiple programming languages, frameworks and extensive familiarity with several database structures.</p>
 <p>📌Experience</br>
-- DEX, Swap functions and Bridge</br>
-- DeFi development(token staking, farming, bonding)</br>
-- Dapp stack (Web3.js / Ethers.js)</br>
-- NFT Marketplace, NFT staking</br>
-- Api handling (Moralis)</br>
-- Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt)</br>
+- Front-end (React and Next, MUI, MDB, TailwindCss, Vue and Nuxt, Angular +10)</br>
+- PHP/Laravel/CakePhp</br>
+- Python/Django/Flask/Fast Api</br>
+- Java/Spring Boot MVC/Android Studio</br>
+- C#/ASP.net MVC</br>
 </p>
 🔗 How to reach me: fullstack1128@gmail.com
 
